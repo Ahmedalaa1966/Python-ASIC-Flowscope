@@ -1,0 +1,33 @@
+======================================================================
+Signoff Summary Report - Generated 2026-09-10 15:13:32.784164
+======================================================================
+
+----------------------------------------------------------------------
+MCA Corner Details
+----------------------------------------------------------------------
+Metric                   Slowest        Typical        Fastest        
+Setup Violation          No Violation   No Violation   No Violation   
+Hold Violation           No Violation   No Violation   No Violation   
+Clock Skew               0.20           0.11           0.08           
+Total Power              3.78e-03       4.78e-03       5.54e-03       
+
+----------------------------------------------------------------------
+Other Signoff Metrics
+----------------------------------------------------------------------
+Design Area (um^2)           : 48269
+Utilization (%)              : 97
+Area (K-NAND2 units)         : 12859.39
+Total Power (rcx_sta, W)     : 4.78e-03
+TNS (rcx_sta)                : 0.00
+WNS (rcx_sta)                : 0.00
+TNS (MCA)                    : 0.00
+WNS (MCA)                    : 0.00
+Worst Setup Slack (rcx_sta)  : 3.07
+Worst Hold Slack (rcx_sta)   : 0.33
+Worst Setup Slack (MCA)      : 0.06
+Worst Hold Slack (MCA)       : 0.17
+Max Slew Violations          : 0
+Max Fanout Violations        : 0
+Max Cap Violations           : 0
+XOR Differences              : 104
+DRC Violation Count          : 0

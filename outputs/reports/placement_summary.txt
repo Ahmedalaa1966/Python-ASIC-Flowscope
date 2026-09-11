@@ -1,0 +1,25 @@
+======================================================================
+Placement Timing Summary Report - Generated 2026-09-10 15:13:30.269189
+======================================================================
+
+Metric                   Before Opt (GPL)         After Opt (Resize)       
+----------------------------------------------------------------------
+Global Clock Skew        0.00                     0.00                     
+Setup Violation          No Violation             No Violation             
+Hold Violation           No Violation             No Violation             
+STA Violation            No Violation             No Violation             
+TNS                      0.00                     0.00                     
+WNS                      0.00                     0.00                     
+
+----------------------------------------------------------------------
+Post-Optimization Only Metrics
+----------------------------------------------------------------------
+Design Area (um^2)          : 20268
+Utilization (%)             : 41
+Area (K-NAND2 units)        : 5399.62
+Total Power (leakage, W)    : 2.99e-03
+Worst Setup Slack           : 2.45
+Worst Hold Slack            : 0.35
+Max Slew Violations         : 0
+Max Fanout Violations       : 0
+Max Cap Violations          : 0

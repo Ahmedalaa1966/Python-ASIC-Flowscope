@@ -1,0 +1,38 @@
+======================================================================
+Routing Timing Summary Report - Generated 2026-09-10 15:13:30.718579
+======================================================================
+
+Overall Status: PASS
+Violations Found: None
+
+Metric                   Step 15 (Resize)         Step 18 (GRT)            
+----------------------------------------------------------------------
+Global Clock Skew        0.12                     0.12                     
+Setup Violation          No Violation             No Violation             
+Hold Violation           No Violation             No Violation             
+STA Violation            No Violation             No Violation             
+TNS                      0.00                     0.00                     
+WNS                      0.00                     0.00                     
+
+----------------------------------------------------------------------
+Step 15 (Resize) Only Metrics
+----------------------------------------------------------------------
+Design Area (um^2)          : 21344
+Utilization (%)             : 43
+Area (K-NAND2 units)        : 5686.27
+Total Power (leakage, W)    : 4.88e-03
+Max Slew Violations         : 0
+Max Fanout Violations       : 0
+Max Cap Violations          : 0
+
+----------------------------------------------------------------------
+Detail Routing Summary
+----------------------------------------------------------------------
+Total Wire Length (um)      : 86607
+  Wire Length on li1        : 0 um
+  Wire Length on met1       : 23571 um
+  Wire Length on met2       : 31683 um
+  Wire Length on met3       : 19791 um
+  Wire Length on met4       : 8217 um
+  Wire Length on met5       : 2454 um
+Total Number of Vias        : 17822
